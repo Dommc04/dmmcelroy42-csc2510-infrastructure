@@ -1,4 +1,4 @@
-all:
+webservers:
   hosts:
-    csc-2510-ansible:
+    ansible_vm:
       ansible_host: 10.142.0.4
